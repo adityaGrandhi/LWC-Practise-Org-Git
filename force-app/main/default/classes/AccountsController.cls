@@ -7,6 +7,6 @@ public with sharing class AccountsController {
       return [select Id,Name,AccountNumber FROM Account ];
     }
     public static void dealAccounts() {
-
+            /added comment
     }
 }
