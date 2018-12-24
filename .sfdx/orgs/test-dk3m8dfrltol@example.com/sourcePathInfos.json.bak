@@ -1,0 +1,180 @@
+[
+    [
+        "c:\\Workspace VS\\LightningPractiseWorkspace\\force-app",
+        {
+            "sourcePath": "c:\\Workspace VS\\LightningPractiseWorkspace\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545466858884,
+            "changeTime": 1545466858884,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "c:\\Workspace VS\\LightningPractiseWorkspace\\force-app\\main",
+        {
+            "sourcePath": "c:\\Workspace VS\\LightningPractiseWorkspace\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545466858885,
+            "changeTime": 1545466858885,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Workspace VS\\LightningPractiseWorkspace\\force-app\\main\\default",
+        {
+            "sourcePath": "c:\\Workspace VS\\LightningPractiseWorkspace\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545469246184,
+            "changeTime": 1545469246184,
+            "contentHash": "a21009004cd572d890d65233421722a21fcb20a4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "c:\\Workspace VS\\LightningPractiseWorkspace\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "c:\\Workspace VS\\LightningPractiseWorkspace\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545466858889,
+            "changeTime": 1545466858889,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Workspace VS\\LightningPractiseWorkspace\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "c:\\Workspace VS\\LightningPractiseWorkspace\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545500772248,
+            "changeTime": 1545500772248,
+            "contentHash": "1aa9ee755b2c556d467cb235828b1209b8869176",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "c:\\Workspace VS\\LightningPractiseWorkspace",
+        {
+            "sourcePath": "c:\\Workspace VS\\LightningPractiseWorkspace",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545500771693,
+            "changeTime": 1545500771693,
+            "contentHash": "f36b960d7bd0bdeffb89a21f0d7c225ff0f5ee77",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
+        }
+    ],
+    [
+        "c:\\Workspace VS\\LightningPractiseWorkspace\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "c:\\Workspace VS\\LightningPractiseWorkspace\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545469251162,
+            "changeTime": 1545469251162,
+            "contentHash": "f62fbf197c809f8c7673351d373932d4f2fe9226",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Workspace VS\\LightningPractiseWorkspace\\force-app\\main\\default\\lwc\\HelloWorld",
+        {
+            "sourcePath": "c:\\Workspace VS\\LightningPractiseWorkspace\\force-app\\main\\default\\lwc\\HelloWorld",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1545469218014,
+            "changeTime": 1545469218014,
+            "contentHash": "4d3a5791e351a8371e4821f8f2a003616ca73597",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Workspace VS\\LightningPractiseWorkspace\\force-app\\main\\default\\classes\\AccountsController.cls",
+        {
+            "sourcePath": "c:\\Workspace VS\\LightningPractiseWorkspace\\force-app\\main\\default\\classes\\AccountsController.cls",
+            "isDirectory": false,
+            "size": 260,
+            "modifiedTime": 1545480651934,
+            "changeTime": 1545478443355,
+            "contentHash": "a5cc84ad07879488f976f5502fc61ee864d716bd",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Workspace VS\\LightningPractiseWorkspace\\force-app\\main\\default\\classes\\AccountsController.cls-meta.xml",
+        {
+            "sourcePath": "c:\\Workspace VS\\LightningPractiseWorkspace\\force-app\\main\\default\\classes\\AccountsController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 196,
+            "modifiedTime": 1545469251164,
+            "changeTime": 1545469251164,
+            "contentHash": "2b07b0a9a57c40f48519d0ec07cb6966cee4df9f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Workspace VS\\LightningPractiseWorkspace\\force-app\\main\\default\\lwc\\HelloWorld\\HelloWorld.html",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Workspace VS\\LightningPractiseWorkspace\\force-app\\main\\default\\lwc\\HelloWorld\\HelloWorld.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2171,
+            "modifiedTime": 1545547505635,
+            "changeTime": 1545547505635,
+            "contentHash": "7bafef93fb3dc277028e40452b4eaf871cd3a483"
+        }
+    ],
+    [
+        "c:\\Workspace VS\\LightningPractiseWorkspace\\force-app\\main\\default\\lwc\\HelloWorld\\HelloWorld.js",
+        {
+            "sourcePath": "c:\\Workspace VS\\LightningPractiseWorkspace\\force-app\\main\\default\\lwc\\HelloWorld\\HelloWorld.js",
+            "isDirectory": false,
+            "size": 2735,
+            "modifiedTime": 1545546408553,
+            "changeTime": 1545546408553,
+            "contentHash": "9b8026976408cfd68803e307f7948e043f9f06f1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Workspace VS\\LightningPractiseWorkspace\\force-app\\main\\default\\lwc\\HelloWorld\\HelloWorld.js-meta.xml",
+        {
+            "sourcePath": "c:\\Workspace VS\\LightningPractiseWorkspace\\force-app\\main\\default\\lwc\\HelloWorld\\HelloWorld.js-meta.xml",
+            "isDirectory": false,
+            "size": 369,
+            "modifiedTime": 1545480591163,
+            "changeTime": 1545472453596,
+            "contentHash": "5096584b5c9a0e0e20d15d487c516c53bfd14862",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ]
+]

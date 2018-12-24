@@ -1,0 +1,42 @@
+<template>
+    <lightning-input label="Name" value={greeting} onchange={changeHandler}></lightning-input>
+    Hello {greeting}!<br />
+    Id {userId}
+    <lightning-card>
+        <div class="slds-m-around_medium">
+            <table class="slds-table slds-table_cell-buffer slds-table_bordered">
+                <thead>
+                    <tr class="slds-line-height_reset">
+                    <th class="slds-text-title_caps" scope="col">
+                        <div class="slds-truncate" title="Account Name">AccountName</div>
+                        </th>
+                        <th class="slds-text-title_caps" scope="col">
+                            <div class="slds-truncate" title="Account Number">Account Number</div>
+                        </th>
+                    </tr>
+                </thead>
+                <template for:each={accountsList.data} for:item="account">
+                    <tbody key={account.Id}>
+                        <tr>
+                            <td data-label="Prospecting">
+                                <div class="slds-truncate" title={account.Name}>{account.Name}</div>
+                            </td>
+                            <td data-label="Prospecting">
+                                <div class="slds-truncate" title={account.AccountNumber}>{account.AccountNumber}</div>
+                            </td>
+                        </tr>
+                    </tbody>
+                </template>
+            </table>
+            <template if:true={account.error}>
+            </template>
+        </div>
+    </lightning-card>
+
+    <lightning-button class="slds-m-around_medium" label="Go To Accounts Tab" onclick={navigateToRecordViewPage} variant="brand" if:true={recordId}></lightning-button>
+    <lightning-button class="slds-m-around_medium" label="NEW" onclick={createNewAccount} variant="brand"></lightning-button>
+    <lightning-button class="slds-m-around_medium" label="Edit" onclick={navigateToRecordEditPage} variant="brand"></lightning-button>
+    <lightning-button class="slds-m-around_medium" label="Go to contacts" onclick={navigateToRelatedList} variant="brand"></lightning-button>
+     
+     
+</template>
