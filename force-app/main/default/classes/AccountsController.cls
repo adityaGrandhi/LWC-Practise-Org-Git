@@ -6,4 +6,7 @@ public with sharing class AccountsController {
     public static List<Account> getAccountsList(){
       return [select Id,Name,AccountNumber FROM Account ];
     }
+    public static void dealAccounts() {
+
+    }
 }
